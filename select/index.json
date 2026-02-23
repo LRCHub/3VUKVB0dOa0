@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Caravan",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-23T07:11:53.485774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caravan",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/01_Caravan_Blur.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Caravan Of Love",
+      "artist": "The Housemartins",
+      "has_synced": true,
+      "path": "select/02_Caravan_Of_Love_The_Housemartins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Caravan - Zoe Ball XFM Session",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/03_Caravan_-_Zoe_Ball_XFM_Session_Blur.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Caravan (XFM Session, October 2003)",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/04_Caravan_(XFM_Session,_October_2003)_Blur.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Country Caravan",
+      "artist": "Blitzen Trapper",
+      "has_synced": true,
+      "path": "select/05_Country_Caravan_Blitzen_Trapper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Planet Caravan",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/06_Planet_Caravan_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Small Caravan",
+      "artist": "Blind Mr. Jones",
+      "has_synced": false,
+      "path": "select/07_Small_Caravan_Blind_Mr._Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Caravan",
+      "artist": "Duke Ellington & His Orchestra",
+      "has_synced": false,
+      "path": "select/08_Caravan_Duke_Ellington_&_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Caravan",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/09_Caravan_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Caravan - Remastered 1999",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/10_Caravan_-_Remastered_1999_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Caravan (Remastered)",
+      "artist": "Dick Hyman",
+      "has_synced": false,
+      "path": "select/11_Caravan_(Remastered)_Dick_Hyman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spanish Caravan",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/12_Spanish_Caravan_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Caravan Breakers, They Prey On the Weak and the Old",
+      "artist": "Frog Eyes",
+      "has_synced": false,
+      "path": "select/13_Caravan_Breakers,_They_Prey_On_the_Weak_and_the_Old_Frog_Eyes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Caravan Girl",
+      "artist": "Goldfrapp",
+      "has_synced": true,
+      "path": "select/14_Caravan_Girl_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Caravan",
+      "artist": "Husky Rescue",
+      "has_synced": true,
+      "path": "select/15_Caravan_Husky_Rescue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Planet Caravan - Alternative Lyrics",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/16_Planet_Caravan_-_Alternative_Lyrics_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Planet Caravan (alternative lyrics)",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/17_Planet_Caravan_(alternative_lyrics)_Black_Sabbath.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Caravan",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Caravan_Novelbright.txt"
+    }
+  ]
+}
